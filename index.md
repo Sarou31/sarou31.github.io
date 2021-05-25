@@ -1,4 +1,3 @@
-hello
 # Sarah BILLAUX
 
 ## Formations
