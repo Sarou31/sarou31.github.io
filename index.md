@@ -12,7 +12,7 @@
     * *Travail d'équipe*
 
 * **2015 Stage Photographie**
-    * *Utilisation d'appareil photo argentiquephotoshop*
+    * *Utilisation d'appareil photo argentique*
     * *Shooting*
     * *photoshop*
 
